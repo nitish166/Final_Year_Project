@@ -1,0 +1,17 @@
+Which_WDT NFL_NNP team_NN represented_VBD the_DT AFC_NNP at_IN Super_NNP Bowl_NNP 50_CD 
+
+How_WRB many_JJ total_JJ yards_NNS did_VBD Denver_NNP gain_NN 
+
+How_WRB long_RB was_VBD the_DT Summer_NNP Theatre_NNP in_IN operation_NN 
+
+How_WRB much_JJ area_NN does_VBZ the_DT University_NNP Library_NNP garden_NN cover_NN 
+
+Why_WRB has_VBZ Warsaw_NNP seen_VBN many_JJ improvements_NNS over_IN the_DT past_JJ decade_NN 
+
+Super_NNP Bowl_NNP 50_CD determined_VBD the_DT NFL_NNP champion_NN for_IN what_WP season_NN 
+
+Where_WRB did_VBD Super_NNP Bowl_NNP 50_CD take_VB place_NN 
+
+What_WP was_VBD the_DT theme_NN of_IN Super_NNP Bowl_NNP 50_CD 
+
+Who_WP won_VBD Super_NNP Bowl_NNP 50_CD 

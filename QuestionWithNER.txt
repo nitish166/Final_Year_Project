@@ -1,0 +1,29 @@
+Which/O NFL/ORGANIZATION team/O represented/O the/O AFC/ORGANIZATION at/O Super/LOCATION Bowl/LOCATION 50/O 
+
+
+How/O many/O total/O yards/O did/O Denver/LOCATION gain/O 
+
+
+What/O year/O was/O Casimir/PERSON Pulaski/PERSON born/O in/O Warsaw/LOCATION 
+
+
+How/O long/O was/O the/O Summer/LOCATION Theatre/LOCATION in/O operation/O 
+
+
+How/O much/O area/O does/O the/O University/LOCATION Library/LOCATION garden/O cover/O 
+
+
+Why/O has/O Warsaw/LOCATION seen/O many/O improvements/O over/O the/O past/O decade/O 
+
+
+Super/ORGANIZATION Bowl/ORGANIZATION 50/O determined/O the/O NFL/MISC champion/O for/O what/O season/O 
+
+
+Where/O did/O Super/ORGANIZATION Bowl/ORGANIZATION 50/O take/O place/O 
+
+
+What/O was/O the/O theme/O of/O Super/ORGANIZATION Bowl/ORGANIZATION 50/O 
+
+
+Who/O won/O Super/ORGANIZATION Bowl/ORGANIZATION 50/O 
+
